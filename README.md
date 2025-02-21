@@ -1,0 +1,2 @@
+# lista-vscodd
+alatorio
